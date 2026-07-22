@@ -1,0 +1,3 @@
+thistuple = ("aalu", "ornge", "mango", "banana", "cherry")
+print(thistuple)
+
